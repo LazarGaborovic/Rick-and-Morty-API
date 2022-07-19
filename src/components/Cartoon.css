@@ -1,0 +1,8 @@
+.results {
+    display: flex;
+    align-items: center;
+    width: 50%;
+}
+.results img {
+    padding: 20px;
+}
