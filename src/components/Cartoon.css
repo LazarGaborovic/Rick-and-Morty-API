@@ -1,8 +1,25 @@
-.results {
+
+.cartoon__cards {
     display: flex;
-    align-items: center;
-    width: 50%;
+    width: 100%;
+    border: 2px solid gray;
+   
+    
 }
-.results img {
-    padding: 20px;
+.characteristics {
+    display: flex;
+    flex-direction: column;
+}
+h1 {
+    color: white;
+    font-size: 20px;
+}
+p {
+    color: white;
+}
+span {
+    color: white;
+}
+.badge {
+    width: 25%;
 }
